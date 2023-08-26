@@ -1,4 +1,4 @@
-import AdLogin from "../../pages/admin/Login"
+mport AdLogin from "../../pages/admin/Login"
 import Dashboard from "../../pages/admin/Dashboard"
 import App from "../../pages/admin/App";
 import  Users  from "../../pages/admin/Users";

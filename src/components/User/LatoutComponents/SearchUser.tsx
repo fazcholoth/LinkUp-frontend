@@ -1,4 +1,4 @@
-import { User } from "../../../state/user";
+mport { User } from "../../../state/user";
 import UserAvatar from "../ProfileComponent/UserAvatar";
 import AddFriend from "../ProfileComponent/AddFriend";
 

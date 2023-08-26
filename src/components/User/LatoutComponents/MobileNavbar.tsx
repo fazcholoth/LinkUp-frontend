@@ -1,4 +1,4 @@
-import { RootState } from "../../../state/rooState";
+mport { RootState } from "../../../state/rooState";
 import { useSelector, useDispatch } from "react-redux";
 import { UserCircleIcon, ChatBubbleOvalLeftEllipsisIcon, ArrowLeftOnRectangleIcon, BookmarkIcon, HomeIcon,Cog6ToothIcon } from "@heroicons/react/24/solid";
 import { Link, useLocation } from "react-router-dom";

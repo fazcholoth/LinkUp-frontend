@@ -1,4 +1,4 @@
-import {VideoCameraIcon} from '@heroicons/react/24/solid'
+mport {VideoCameraIcon} from '@heroicons/react/24/solid'
 import  { useState } from 'react';
 import ApiCalls from '../../../services/user/apiCalls';
 import { useDispatch } from 'react-redux';

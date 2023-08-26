@@ -1,4 +1,4 @@
-import { useParams } from "react-router-dom";
+import { seParams } from "react-router-dom";
 import { useState } from "react";
 import { ZegoUIKitPrebuilt } from "@zegocloud/zego-uikit-prebuilt";
 import { RootState } from "../../state/rooState";

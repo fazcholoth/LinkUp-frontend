@@ -1,4 +1,4 @@
-import { useSelector } from "react-redux";
+mport { useSelector } from "react-redux";
 import { useEffect, useState } from "react";
 import { PencilSquareIcon } from "@heroicons/react/24/solid";
 import { RootState } from "../../../state/rooState";

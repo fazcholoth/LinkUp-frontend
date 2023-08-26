@@ -1,4 +1,4 @@
-import React from "react";
+import eact from "react";
 import ReportTable from "../../components/Admin/ReportsTable";
 
 const Reports: React.FC = () => {

@@ -1,4 +1,4 @@
-import NavBar from './components/User/LatoutComponents/NavBar';
+import avBar from './components/User/LatoutComponents/NavBar';
 import SideBar from './components/User/LatoutComponents/SideBar';
 import { Outlet } from 'react-router-dom';
 import RightVerticalComponent from './components/User/PostComponents/RightVerticalComponent';

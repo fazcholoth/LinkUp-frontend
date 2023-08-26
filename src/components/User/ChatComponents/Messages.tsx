@@ -1,4 +1,4 @@
-import { Message } from "../../../pages/user/Chat";
+mport { Message } from "../../../pages/user/Chat";
 import UserAvatar from "../ProfileComponent/UserAvatar";
 import { format } from "timeago.js";
 

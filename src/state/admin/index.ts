@@ -1,4 +1,4 @@
-import { createSlice } from "@reduxjs/toolkit";
+import { reateSlice } from "@reduxjs/toolkit";
 import { User,Post } from "../user";
 export interface adminAuthState {
   admin: User | null;

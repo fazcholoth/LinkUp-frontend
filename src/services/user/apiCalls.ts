@@ -1,4 +1,4 @@
-import instance from "./axiosInstance";
+import nstance from "./axiosInstance";
 
 export default {
   // User-related API calls

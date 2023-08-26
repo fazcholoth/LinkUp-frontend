@@ -1,5 +1,5 @@
 
-const LandingPage = () => {
+const andingPage = () => {
   return (
     <div className="flex flex-wrap justify-center items-center mt-20">
       <div className="w-full px-6 md:px-24 z-10 text-center">

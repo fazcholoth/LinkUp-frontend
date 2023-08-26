@@ -1,4 +1,4 @@
-import RealTimeActivityFeed from "../../components/Admin/RealTimeActivityFeed"
+mport RealTimeActivityFeed from "../../components/Admin/RealTimeActivityFeed"
  const Dashboard = () => {
   return (
 <div className="">

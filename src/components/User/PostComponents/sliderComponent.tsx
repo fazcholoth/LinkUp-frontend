@@ -1,4 +1,4 @@
-import { useState } from 'react';
+mport { useState } from 'react';
 import { ChevronLeftIcon, ChevronRightIcon ,XCircleIcon} from '@heroicons/react/24/solid';
 
 type ImagesProps = {

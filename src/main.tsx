@@ -1,4 +1,4 @@
-import ReactDOM from 'react-dom/client'
+import eactDOM from 'react-dom/client'
 import appRouter from "./routes/AppRouter"
 import {RouterProvider} from "react-router-dom"
 import { PersistGate } from "redux-persist/integration/react";

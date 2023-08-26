@@ -1,4 +1,4 @@
-import React from "react";
+import eact from "react";
 import UserTable from "../../components/Admin/UserTable";
 
 const Users: React.FC = () => {

@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { seEffect, useState } from "react";
 import apiCalls from "../../services/user/apiCalls";
 import Posted from "../../components/User/PostComponents/Posted";
 

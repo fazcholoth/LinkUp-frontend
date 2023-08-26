@@ -1,4 +1,4 @@
-import { Bars3Icon,MagnifyingGlassCircleIcon} from '@heroicons/react/24/solid'
+mport { Bars3Icon,MagnifyingGlassCircleIcon} from '@heroicons/react/24/solid'
 import  {User, setSideBar } from "../../../state/user"
 import { useDispatch } from "react-redux"
 import { Link,useNavigate } from "react-router-dom"

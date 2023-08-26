@@ -1,4 +1,4 @@
-import { ArrowUturnRightIcon } from '@heroicons/react/24/solid';
+mport { ArrowUturnRightIcon } from '@heroicons/react/24/solid';
 
 interface SharePostProps {
   postId: string;

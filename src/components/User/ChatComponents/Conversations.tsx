@@ -1,4 +1,4 @@
-import UserAvatar from "../ProfileComponent/UserAvatar";
+mport UserAvatar from "../ProfileComponent/UserAvatar";
 import { useState } from "react";
 import { Conversation } from "../../../pages/user/Chat";
 

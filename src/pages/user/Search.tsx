@@ -1,4 +1,4 @@
-import { useParams } from "react-router-dom";
+import { seParams } from "react-router-dom";
 import SearchUser from "../../components/User/LatoutComponents/SearchUser";
 import { useEffect, useState } from "react";
 import ApiCalls from "../../services/user/apiCalls";

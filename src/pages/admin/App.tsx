@@ -1,4 +1,4 @@
-import { Outlet } from "react-router-dom";
+mport { Outlet } from "react-router-dom";
 import Navbar from "../../components/Admin/Navbar";
 
 const App= () => {

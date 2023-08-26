@@ -1,4 +1,4 @@
-import { EllipsisHorizontalIcon } from '@heroicons/react/24/solid';
+mport { EllipsisHorizontalIcon } from '@heroicons/react/24/solid';
 import { useState } from 'react';
 import { toast } from 'react-toastify';
 import apiCalls from '../../../services/user/apiCalls';

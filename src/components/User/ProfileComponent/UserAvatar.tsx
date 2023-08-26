@@ -1,4 +1,4 @@
-import { useNavigate } from "react-router-dom";
+mport { useNavigate } from "react-router-dom";
 
 interface props{
     profilePic:string|undefined;

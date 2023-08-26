@@ -17,7 +17,7 @@ const rootReducer = combineReducers({
  admin: adminSlice,
 });
 
-const persistedReducer = persistReducer(persistConfig, rootReducer);
+const ersistedReducer = persistReducer(persistConfig, rootReducer);
 
 const store = configureStore({
   reducer: persistedReducer,

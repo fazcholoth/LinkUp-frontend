@@ -1,4 +1,4 @@
-import { createBrowserRouter } from "react-router-dom";
+import { reateBrowserRouter } from "react-router-dom";
 import { AdminRoutes,AdminLogin } from "./admin/AdminRoutes";
 import {userLogin,userRegister,userRoutes,verifyEmail,userForgotPassword} from "./user/UserRoutes"
 

@@ -1,4 +1,4 @@
-import { useEffect } from 'react';
+import { seEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { setNotification } from '../../state/user/index';
 import apiCalls from '../../services/user/apiCalls';

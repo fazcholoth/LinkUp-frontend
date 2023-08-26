@@ -1,4 +1,4 @@
-import { createSlice } from "@reduxjs/toolkit";
+import { reateSlice } from "@reduxjs/toolkit";
 
 export interface User {
     _id:string

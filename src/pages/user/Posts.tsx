@@ -1,4 +1,4 @@
-import { useEffect, useState, lazy, Suspense } from "react";
+import { seEffect, useState, lazy, Suspense } from "react";
 import ApiCalls from "../../services/user/apiCalls";
 import { useDispatch, useSelector } from "react-redux";
 import { setPosts } from "../../state/user";
