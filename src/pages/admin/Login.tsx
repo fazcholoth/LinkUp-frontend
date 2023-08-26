@@ -63,7 +63,7 @@ useEffect(()=>{
     <div className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-r from-black to-gray-50">
       <div className="flex flex-col bg-white shadow-md px-4 sm:px-6 md:px-8 lg:px-10 py-8 rounded-3xl w-50 max-w-md">
         <div className="font-medium self-center text-xl sm:text-3xl text-gray-800">
-          Admin Logi
+          Admin Login
         </div>
 
         <Formik
