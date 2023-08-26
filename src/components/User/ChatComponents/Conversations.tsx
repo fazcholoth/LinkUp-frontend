@@ -24,7 +24,7 @@ const Conversations = ({ conversation, userId ,onlineUser}: Props) => {
             profilePic={conver?.profilePic}
             hight={10}
             width={10}
-            isOnline={onlineUser?.includes(conver?._id??"")}
+            isOnline={online?.includes(conver?._id??"")}
             username={conver?.username}
           />
           <div className="ml-2">
