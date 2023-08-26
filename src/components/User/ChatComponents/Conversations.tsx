@@ -29,7 +29,7 @@ const Conversations = ({ conversation, userId ,onlineUser}: Props) => {
           />
           <div className="ml-2">
             <h4 className="font-medium">{conver?.username}</h4>
-            <p className="text-sm text-gray-500">Last message</p>
+            <p className="text-sm text-gray-500">Last messag</p>
           </div>
         </div>
       </div>
